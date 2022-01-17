@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAgDA;;qDAEqD;AACrD,iBAAiB;AA0CjB,iBAAiB;AAWjB,kBAAkB;AAqGlB;8CAC8C;AAsH9C;;qDAEqD;ACjUrD;;sCAEsC;ACLtC;;GAEG;AAGH;;GAEG;AAuBH,yEAAyE;AC7BvE,iBAAG;EACD,aAAa,EAAE,CAAC",
+"sources": ["../../../_dev/css/partials/_mixins.scss","../../../_dev/css/partials/_variables.scss","../../../_dev/css/_theme_variables.scss","../../../_dev/css/components/notifications.scss"],
+"names": [],
+"file": "notifications.css"
+}

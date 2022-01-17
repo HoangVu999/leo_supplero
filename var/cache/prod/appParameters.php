@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'leo_supplero',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'NOz9SVmDtzhPBuqhdkX1b4IB5SCXiULeTRGCuLgIO08EzKdJ3WQXW14qtHy2nBP4',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2022-01-13',
+    'locale' => 'en-US',
+    'use_debug_toolbar' => true,
+    'cookie_key' => '1DMWafGvMTXEzqHRw7GeDQTrtdNAB3LBQhxi4I9xTQnYbf9YE1ErisdYcsagFJbn',
+    'cookie_iv' => '5CaKetzM2RKsP0SZA479oWExJBBxC5Gk',
+    'new_cookie_key' => 'def0000036f1da1b29934ad80c6ccaa499120db1b76c7ea98a1279a40dd5d8ba94cd615d41a7fcc47bc7de9b5ab4240e42bc94210ecd34daeeb306ac2b3e88aeadf9ce3d',
+  ),
+);
